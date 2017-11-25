@@ -71,11 +71,6 @@ import java_cup.runtime.Symbol;
 
 %%
 
-
-/*
- * Define names for regular expressions here.
- */
-
 DARROW    "=>"
 LE        "<="
 ASSIGN    "<-"
